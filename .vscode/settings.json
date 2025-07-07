@@ -1,0 +1,6 @@
+{
+	"bitburner.authToken": "G9xdAdyfnAjWQu64mv+vUaA3zgq0EmrG9XwDEAZZJod2bX2QHG9YRmZ5yW3dOaeB",
+	"bitburner.scriptRoot": "./publish/",
+	"bitburner.showFileWatcherEnabledNotification": false,
+	"bitburner.showPushSuccessNotification": true
+}
