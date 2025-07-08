@@ -4,6 +4,7 @@ export async function main(ns) {
 	ns.clearLog()
 
 	ns.print(`Test`)
+	ns.print(``)
 
 
   }
