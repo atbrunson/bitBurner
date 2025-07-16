@@ -14,16 +14,6 @@ export async function main(ns) {
 	ns.print("Target Server Free RAM: %dgb", targetFreeMem);
 	ns.print("")
 
-	let numThreads = 1
-
-	//find number of threads able to run
-	//let numThreads = Math.floor(targetFreeMem / ns.getScriptRam("main.js",target));
-
-	//if(numThreads == 0){
-	//let numThreads = 1
-	//}
-	//alert(numThreads)
-
 	//If we have the exploit program exsits, use to open that port
 	//on the target server
 
